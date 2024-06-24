@@ -1,8 +1,7 @@
-python == 3.10.9
-streamlit
-pandas
-streamlit-aggrid == 0.3.4
-pillow== 10.3.0
+streamlit==1.36.0
+pandas==2.2.2
+streamlit-aggrid==0.3.4
+Pillow
 os
 io
 base64
