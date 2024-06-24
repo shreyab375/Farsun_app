@@ -1,0 +1,11 @@
+streamlit
+pandas
+streamlit-aggrid
+PIL
+os
+io
+base64
+matplotlib.pyplot
+seaborn
+streamlit_option_menu
+streamlit_cropper
