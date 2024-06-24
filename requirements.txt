@@ -1,6 +1,6 @@
 streamlit
 pandas
-streamlit-aggrid
+streamlit-aggrid == 1.0.5
 PIL
 os
 io
