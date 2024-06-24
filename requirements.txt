@@ -1,7 +1,7 @@
 streamlit
 pandas
 streamlit-aggrid == 0.3.4
-pillow
+pillow== 10.3.0
 os
 io
 base64
