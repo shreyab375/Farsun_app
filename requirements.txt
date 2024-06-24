@@ -1,3 +1,4 @@
+python == 3.10.9
 streamlit
 pandas
 streamlit-aggrid == 0.3.4
@@ -9,3 +10,4 @@ matplotlib.pyplot
 seaborn
 streamlit_option_menu
 streamlit_cropper
+
