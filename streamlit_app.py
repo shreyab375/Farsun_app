@@ -11,6 +11,7 @@ import seaborn as sns
 from streamlit_option_menu import option_menu
 from streamlit_cropper import st_cropper
 
+st.set_page_config(layout="wide")
 # Define CSS style for the boxed section
 box_style = """
     <style>
