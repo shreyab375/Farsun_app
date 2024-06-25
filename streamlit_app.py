@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from streamlit_option_menu import option_menu
 from streamlit_cropper import st_cropper
-from st_screen_stats import ScreenData, StreamlitNativeWidgetScreen, WindowQuerySize, WindowQueryHelper
+
 
 
 st.set_page_config(layout="wide")
