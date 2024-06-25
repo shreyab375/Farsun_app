@@ -10,8 +10,13 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from streamlit_option_menu import option_menu
 from streamlit_cropper import st_cropper
+from st_screen_stats import ScreenData
+
 
 st.set_page_config(layout="wide")
+screenD = ScreenData(setTimeout=1000)
+screen_stats = screenD.st_screen_data_window_top()
+st.info(f"Scn Width: {screen_stats['screen']['width']}")
 # Define CSS style for the boxed section
 box_style = """
     <style>
