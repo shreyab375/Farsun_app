@@ -2,9 +2,6 @@ streamlit==1.36.0
 pandas==2.2.2
 streamlit-aggrid==0.3.4
 pillow==10.3.0
-base64
-os
-io
 matplotlib==3.9.0
 seaborn==0.13.2
 streamlit_option_menu==0.3.13
