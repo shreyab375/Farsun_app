@@ -162,7 +162,7 @@ if images:
     current_caption = captions[st.session_state.img_index]
 
     # Layout for side-by-side display
-    col_image, col_zoomed, col_form = st.columns([3, 2, 4])
+    col_image, col_zoomed, col_form = st.columns([3, 1, 4])
 
 
     with col_image:
